@@ -1,4 +1,4 @@
-# ![Sonic Unison](https://doc-0s-a4-docs.googleusercontent.com/docs/securesc/f7cmm0l7296bj0m3u1mtfeiebf9f04ar/1sfiplq1f1j3lvsto4tqk96o09rc6a10/1632101025000/01151307721178675018/01151307721178675018/1Vt3rdXz6t-2fkcTcB0QAoH90e1_BS-6A.png)
+# ![Sonic Unison](https://media.discordapp.net/attachments/872338564241850398/872361441582268456/Sonic_Unison_Logo_Sprites_Upgraded.png)
 ## What is Sonic Unison?
 Sonic Unison is a Launcher Interface for Sonic 1,2,3 and Sonic Mania with support for any PC/Emulated releases of those games. It started life after the  Sonic 1,2,and CD (2011-2013) Decopmilations by RubberDuckyCooly were created and made public. 
 
