@@ -62,7 +62,6 @@ The games should be stored on the C: Drive where the Manual says it should be.</
 The ROMS Follow the steam naming scheme but below is the naming format:<br>
 GAMENAME_R - Base Games (Not locked-on to Sonic & Knuckles) R standing for Region in the case of Sonic CD it'd be W Still for West<br>
 Sonic_Knuckles_wGAMENAME - Locked-On to Sonic & Knuckles</br></br></br>
-
 Formats are the following:<br>
 Sega Genesis - .bin,.md, or .68k<br>
 Sega CD/Mega CD - .cue</br></br></li>
