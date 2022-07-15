@@ -48,7 +48,7 @@ Yes, this is due to the de-listing of Sonic 1,2,CD, and 3K on Steam as thanks to
 On the side of Sonic 3 however this means as of now there is no legal way of purchasing the original Sonic 3 & Knuckles ROM outside of the second hand market which SEGA earns no money off of anyway. Due to this Sonic 3 & Knuckles and Sonic 3 Angel island Revisited took a big hit as the Sonic 3 & Knuckles ROM was no longer for sale and Sonic 3 & Knuckles must now obtained via a cartridge dump or from a compilation such as Mega Collection. Sonic Unison does not support piracy.
 
 ## Why is my Game not Booting?
-Don't worry about it it can be various factors but I plan to fix that next update by adding UDPS (User-Defined Paths) so Unison will go to the path you set for a game to launch it. from there the folder system current builds use will be retired but if you absolutely must use it now I'll have a section on the appropriate FAQS Channel for my [Discord]() where I will just tell you common issues I've seen users have.
+Don't worry about it it can be various factors but I plan to fix that next update by adding UDPS (User-Defined Paths) so Unison will go to the path you set for a game to launch it. from there the folder system current builds use will be retired but if you absolutely must use it now I'll have a section on the appropriate FAQS Channel for my [Discord](https://discord.gg/nRZVfNEAaK) where I will just tell you common issues I've seen users have.
 
 UDPS are not in any of the current Builds
 
