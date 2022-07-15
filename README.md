@@ -67,23 +67,21 @@ Sega Genesis - .bin,.md, or .68k<br>
 Sega CD/Mega CD - .cue</br></br></li>
 
 <li>You moved/renamed Sonic Mania.<br>
-If Sonic Mania doesn't boot it's likely because you moved/renamed the EXE do not do this or Unison can't find it Unison is set to auto-detect it in it's<br>
-base folder with it's base name so keep it there with it's original name SonicMania.exe</br></br></li>
+If Sonic Mania doesn't boot it's likely because you moved/renamed the EXE do not do this or Unison can't find it Unison is set to auto-detect it in it's base folder with it's base name so keep it there with it's original name SonicMania.exe</br></li>
 
 <li>Wrong Emulator<br>
 As of right now only Kega Fusion is usable with Sonic Unison so download it then your ROMS Should boot.</br></li>
 
 <li>Prototypes
 Those will have the name format similar to Steam:<br>
-GAMENAME_PROTOVERSION - GAMENAME will be Sonic 1,2,CD, or 3K and PROTOVERSION being the selected Prototype the names of the Prototypes are:<br>
-</br></br></li>
+GAMENAME_PROTOVERSION - GAMENAME will be Sonic 1,2,CD, or 3K and PROTOVERSION being the selected Prototype the names of the Prototypes are:</br><br>
+</br></li>
 </ol>
 Sonic 1:
 <ul>
   <li>PRENICKARCADE</li>
-</ul>
-
-Sonic 2 (Base):<br>
+</ul><br>
+Sonic 2 (Base):</br>
 <ul>
   <li>ALPHA</li>
   <li>PREBETA</li>
@@ -95,9 +93,8 @@ Sonic 2 (Base):<br>
   <li>CENSOR</li>
   <li>NICKARCADE</li>
   <li>SIMONWAI</li>
- </ul>
-
-Sonic 2 (& Knuckles):
+ </ul></br><br>
+Sonic 2 (& Knuckles):</br><br>
 <ul>
   <li>0524</li>
   <li>0606</li>
@@ -105,9 +102,9 @@ Sonic 2 (& Knuckles):
   <li>0610</li>
   <li>0612</li>
   <li>0618</li>
- </ul>
+ </ul></br><br>
 
-Sonic 3 (Alone + & Knuckles):
+Sonic 3 (Alone + & Knuckles):</br>
 <ul>
   <li>1103</li>
   <li>1120</li>
