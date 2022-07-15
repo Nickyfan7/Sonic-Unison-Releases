@@ -80,8 +80,8 @@ GAMENAME_PROTOVERSION - GAMENAME will be Sonic 1,2,CD, or 3K and PROTOVERSION be
 Sonic 1:
 <ul>
   <li>PRENICKARCADE</li>
-</ul><br>
-Sonic 2 (Base):</br>
+</ul>
+Sonic 2 (Base):
 <ul>
   <li>ALPHA</li>
   <li>PREBETA</li>
@@ -94,7 +94,7 @@ Sonic 2 (Base):</br>
   <li>NICKARCADE</li>
   <li>SIMONWAI</li>
  </ul></br><br>
-Sonic 2 (& Knuckles):</br><br>
+Sonic 2 (& Knuckles):
 <ul>
   <li>0524</li>
   <li>0606</li>
@@ -103,8 +103,7 @@ Sonic 2 (& Knuckles):</br><br>
   <li>0612</li>
   <li>0618</li>
  </ul></br><br>
-
-Sonic 3 (Alone + & Knuckles):</br>
+Sonic 3 (Alone + & Knuckles):
 <ul>
   <li>1103</li>
   <li>1120</li>
@@ -122,7 +121,7 @@ Sonic & Knuckles (Alone):
   <li>0619</li>
 </ul>
 Sonic CD:
-NOTE: The Prototypes of CD should be put in folders with Titled with just the numbers
+(NOTE: The Prototypes of CD should be put in folders with Titled with just the Numbers below)
 <ul>  
   <li>0412</li>
   <li>0510</li>
