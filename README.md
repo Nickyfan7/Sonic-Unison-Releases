@@ -50,7 +50,7 @@ On the side of Sonic 3 however this means as of now there is no legal way of pur
 ## Why is my Game not Booting?
 Don't worry about it it can be various factors but I plan to fix that next update by adding UDPS (User-Defined Paths) so Unison will go to the path you set for a game to launch it. from there the folder system current builds use will be retired but if you absolutely must use it now I'll have a section on the appropriate FAQS Channel for my [Discord](https://discord.gg/nRZVfNEAaK) where I will just tell you common issues I've seen users have.
 
-UDPS are not in any of the current Builds
+UDPs are not in any of the current builds they are planned for the next update aswell as Sonic 2 Absolute Support.
 
 ## Any Other features Coming?
 Yes, I plan to add themes to Sonic Unison current themes being: Dark,Light,Sonic 1/2 (90's and 10's),Sonic 3,Sonic CD (90's and 10's), and Sonic Origins.
