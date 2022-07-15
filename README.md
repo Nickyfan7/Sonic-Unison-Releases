@@ -16,7 +16,7 @@ However the idea of adding it to the decomps was shut down, but I didn't want to
   <li>Sonic 1 Remastered (2013) ~ Requires the Decompilation from Rubberduckycooly</li>
   <li>Sonic Forever (2021) ~ Must own Sonic Forever as an EXE</li>
 </ul>
-### Sonic the Hedgehog
+<h3> Sonic the Hedgehog </h3>
 <ul>
   <li>Original (1991) ~ Must own on Steam or Dumped from Cart/Collection.</li>
   <li>Sonic 1 Remastered (2013) ~ Requires the Decompilation from Rubberduckycooly</li>
