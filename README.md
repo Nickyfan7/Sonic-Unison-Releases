@@ -16,27 +16,11 @@ However the idea of adding it to the decomps was shut down, but I didn't want to
   <li>Sonic 1 Remastered (2013) ~ Requires the Decompilation from Rubberduckycooly</li>
   <li>Sonic Forever (2021) ~ Must own Sonic Forever as an EXE</li>
 </ul>
-<br>
-### Sonic the Hedgehog 2
+### Sonic the Hedgehog
 <ul>
-	<li>Originals (1992/4) ~ Must own on Steam or Dumped from Cart/Collection.</li>
-	<li>Sonic 2 Remastered (2013) ~ Requires Decompilation from Rubberduckycooly</li>
-	<li?Sonic 2 Absolute (????) ~ Planned, When it releases.</li>
-</ul>
-</br>
-##### Sonic the Hedgehog 3 & Knuckles
-<ul>
-	<li>Originals (1994) ~ Must own on Steam or Dumped from Cart/Collection.</li>
-	<li>Sonic & Knuckles Collection (1992) ~ Must own physical disk.</li>
-	<li>Sonic 3 Angel Island Revisited (2019) ~ Must own both S3K on Steam and Sonic 3 AIR.</li>
-</ul>
-###### Sonic the Hedgehog CD
-<ul>
-	<li>Original (1993) ~ Must have a legally dumped Sonic CD ISO/CUE.</li>
-	<li>PC (1996) ~ Must have a copy of the Sonic CD PC Port Disc/Patched with Sega PC Reloaded.</li>
-	<li>Remaster (2011) ~ Must own on Steam.</li>
-	<li>Decomp (2011) ~ Requires you to have the RSDKv3 Decomp by Rubberduckycooly.</li>
-	<li>Origins (2022) ~ Requires you have bought Sonic Origins on Steam
+  <li>Original (1991) ~ Must own on Steam or Dumped from Cart/Collection.</li>
+  <li>Sonic 1 Remastered (2013) ~ Requires the Decompilation from Rubberduckycooly</li>
+  <li>Sonic Forever (2021) ~ Must own Sonic Forever as an EXE</li>
 </ul>
 
 Above is the list of all the versions of a game that Sonic Unison will support, have fun playing all those old classics!
