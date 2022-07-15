@@ -17,7 +17,7 @@ However the idea of adding it to the decomps was shut down, but I didn't want to
   <li>Sonic Forever (2021) ~ Must own Sonic Forever as an EXE</li>
 </ul>
 <br>
-#### Sonic the Hedgehog 2
+### Sonic the Hedgehog 2
 <ul>
 	<li>Originals (1992/4) ~ Must own on Steam or Dumped from Cart/Collection.</li>
 	<li>Sonic 2 Remastered (2013) ~ Requires Decompilation from Rubberduckycooly</li>
