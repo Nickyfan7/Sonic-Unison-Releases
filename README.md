@@ -78,6 +78,7 @@ As of right now only Kega Fusion is usable with Sonic Unison so download it then
 Those will have the name format similar to Steam:<br>
 GAMENAME_PROTOVERSION - GAMENAME will be Sonic 1,2,CD, or 3K and PROTOVERSION being the selected Prototype the names of the Prototypes are:<br>
 </br></br></li>
+</ol>
 Sonic 1:
 <ul>
   <li>PRENICKARCADE</li>
