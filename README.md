@@ -22,7 +22,6 @@ However the idea of adding it to the decomps was shut down, but I didn't want to
 	<li>Sonic 2 Remastered (2013) ~ Requires Decompilation from Rubberduckycooly</li>
 	<li?Sonic 2 Absolute (????) ~ Planned, When it releases.</li>
 </ul>
-</br>
 <h3>Sonic the Hedgehog 3 & Knuckles</h3>
 <ul>
 	<li>Originals (1994) ~ Must own on Steam or Dumped from Cart/Collection.</li>
