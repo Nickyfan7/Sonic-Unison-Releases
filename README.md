@@ -59,9 +59,9 @@ A few reasons:<br>
 The games should be stored on the C: Drive where the Manual says it should be.</br></li>
 
 <li>Wrong Name/Format.<br>
-The ROMS Follow the steam naming scheme but below is the naming format:<br>
+The ROMS Follow the steam naming scheme but below is the naming format:</br><br>
 GAMENAME_R - Base Games (Not locked-on to Sonic & Knuckles) R standing for Region in the case of Sonic CD it'd be W Still for West<br>
-Sonic_Knuckles_wGAMENAME - Locked-On to Sonic & Knuckles</br></br></br>
+Sonic_Knuckles_wGAMENAME - Locked-On to Sonic & Knuckles</br></br>
 Formats are the following:<br>
 Sega Genesis - .bin,.md, or .68k<br>
 Sega CD/Mega CD - .cue</br></br></li>
@@ -113,7 +113,7 @@ Sonic 3 (Alone + & Knuckles):
   <li>1120</li>
   <li>0408</li>
   <li>0517</li>
-</uL
+</ul>
 Sonic & Knuckles (Alone):
 <ul>
   <li>0525</li>
