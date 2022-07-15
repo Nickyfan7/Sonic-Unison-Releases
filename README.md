@@ -48,96 +48,9 @@ Yes, this is due to the de-listing of Sonic 1,2,CD, and 3K on Steam as thanks to
 On the side of Sonic 3 however this means as of now there is no legal way of purchasing the original Sonic 3 & Knuckles ROM outside of the second hand market which SEGA earns no money off of anyway. Due to this Sonic 3 & Knuckles and Sonic 3 Angel island Revisited took a big hit as the Sonic 3 & Knuckles ROM was no longer for sale and Sonic 3 & Knuckles must now obtained via a cartridge dump or from a compilation such as Mega Collection. Sonic Unison does not support piracy.
 
 ## Why is my Game not Booting?
-<ol>
-	<li>1.Wrong Drive</li>
-	The games should be stored on the C: drive in C:\Users\%USERNAME\AppData\Local\Sonic_Unison in the Games Folder from here you'll put the following versions here:
-	.../S1/ - For Decomps and Forever the put the folders they're in and call them "Remastered" for Decomp and "Forever" for Sonic 1 Forever finally put the Steam ROM here.
+Don't worry about it it can be various factors but I plan to fix that next update by adding UDPS (User-Defined Paths) so Unison will go to the path you set for a game to launch it. from there the folder system current builds use will be retired but if you absolutely must use it now I'll have a section on the appropriate FAQS Channel for my [Discord]() where I will just tell you common issues I've seen users have.
 
-	<li>Wrong Name/Format.</li>
-	The ROMS Follow the steam naming scheme but below is the naming format:<br>
-	GAMENAME_R - Base Games (Not locked-on to Sonic & Knuckles) R standing for Region in the case of Sonic CD it'd be W Still for West<br>
-	Sonic_Knuckles_wGAMENAME - Locked-On to Sonic & Knuckles</br></br></br>
-
-	Formats are the following:<br>
-	Sega Genesis - .bin,.md, or .68k<br>
-	Sega CD/Mega CD - .cue</br></br>
-
-	<li>You moved/renamed Sonic Mania.</li><br>
-	If Sonic Mania doesn't boot it's likely because you moved/renamed the EXE do not do this or Unison can't find it Unison is set to auto-detect it in it's<br>
-	base folder with it's base name so keep it there with it's original name SonicMania.exe</br></br>
-
-	<li>Wrong Emulator</li><br>
-	As of right now only Kega Fusion is usable with Sonic Unison so download it then your ROMS Should boot.</br>
-
-	</li>Prototypes</li>
-</ol>
-	Those will have the name format similar to Steam and go in the Prototypes Folder:<br>
-	GAMENAME_PROTOVERSION - GAMENAME will be Sonic 1,2,CD, or 3K and PROTOVERSION being the selected Prototype the names of the Prototypes are:<br>
-	</br></br>
-	Sonic 1:
-		<ul>
-			<li>PRENICKARCADE</li>
-		</ul>
-
-	Sonic 2 (Base):<br>
-		<ul>
-			<li>ALPHA</li>
-			<li>PREBETA</li>
-			<li>BETA4</li>
-			<li>BETA5</li>
-			<li>BETA6</li>
-			<li>BETA7</li>
-			<li>BETA8</li>
-			<li>CENSOR</li>
-			<li>NICKARCADE</li>
-			<li>SIMONWAI</li>
-		</ul>
-
-	Sonic 2 (& Knuckles):
-		<ul>
-			<li>0524</li>
-			<li>0606</li>
-			<li>0608</li>
-			<li>0610</li>
-			<li>0612</li>
-			<li>0618</li>
-		</ul>
-
-	Sonic 3 (Alone + & Knuckles):
-	<ul>
-		<li>1103</li>
-		<li>1120</li>
-		<li>0408</li>
-		<li>0517</li>
-	</ul>
-	Sonic & Knuckles (Alone):
-	<ul>
-			<li>0525</li>
-			<li>0606</li>
-			<li>0608</li>
-			<li>0610</li>
-			<li>0612</li>
-			<li>0618</li>
-			<li>0619</li>
-	</ul>
-	Sonic CD:
-	NOTE: The Prototypes of CD should be put in folders with Titled with just the numbers
-		<ul>  
-			<li>0412</li>
-			<li>0510</li>
-			<li>0512</li>
-			<li>0621</li>
-			<li>0712</li>
-			<li>0801</li>
-			<li>0806</li>
-			<li>0819</li>
-			<li>0920</li>
-			<li>1013</li>
-		</ul>
-
-## Will I be able to set the paths to my games?
-Not yet but I am looking into User Defined paths once I can cobble together a UDP system the current folder system will be replaced by it. This will also eradicate any issues with Games not launching. 
-so if your game still isn't working after trying anything above just wait I already have this planned as a feature for the next Version of Sonic Unison.
+UDPS are not in any of the current Builds
 
 ## Any Other features Coming?
 Yes, I plan to add themes to Sonic Unison current themes being: Dark,Light,Sonic 1/2 (90's and 10's),Sonic 3,Sonic CD (90's and 10's), and Sonic Origins.
@@ -162,3 +75,5 @@ Sonic 2:<br>
 ![Game Select,1992](https://drive.google.com/uc?export=view&id=1EsXJG3NUluc9mLPiTpO2xTqVygA4O-gt)
 ![Extras,1992](https://drive.google.com/uc?export=view&id=1PmVXndz00q-WiDKkH6ioTaO4MWvW25Cz)
 </br>
+
+Don't hold your breath however UDPS are likely first up on the chopping block as they are a part of Unison's functionality.
