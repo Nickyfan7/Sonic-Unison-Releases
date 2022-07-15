@@ -54,29 +54,30 @@ On the side of Sonic 3 however this means as of now there is no legal way of pur
 
 ## Why is my Game not Booting?
 A few reasons:<br>
-1.Wrong Drive<br>
-The games should be stored on the C: Drive specifically .
-</br></br>
-2.Wrong Name/Format.<br>
+<ol>
+<li>Wrong Drive<br>
+The games should be stored on the C: Drive where the Manual says it should be.</br></li>
+
+<li>Wrong Name/Format.<br>
 The ROMS Follow the steam naming scheme but below is the naming format:<br>
 GAMENAME_R - Base Games (Not locked-on to Sonic & Knuckles) R standing for Region in the case of Sonic CD it'd be W Still for West<br>
 Sonic_Knuckles_wGAMENAME - Locked-On to Sonic & Knuckles</br></br></br>
 
 Formats are the following:<br>
 Sega Genesis - .bin,.md, or .68k<br>
-Sega CD/Mega CD - .cue</br></br>
+Sega CD/Mega CD - .cue</br></br></li>
 
-3.You moved/renamed Sonic Mania.<br>
+<li>You moved/renamed Sonic Mania.<br>
 If Sonic Mania doesn't boot it's likely because you moved/renamed the EXE do not do this or Unison can't find it Unison is set to auto-detect it in it's<br>
-base folder with it's base name so keep it there with it's original name SonicMania.exe</br></br>
+base folder with it's base name so keep it there with it's original name SonicMania.exe</br></br></li>
 
-4.Wrong Emulator<br>
-As of right now only Kega Fusion is usable with Sonic Unison so download it then your ROMS Should boot.</br>
+<li>Wrong Emulator<br>
+As of right now only Kega Fusion is usable with Sonic Unison so download it then your ROMS Should boot.</br></li>
 
-5.Prototypes
+<li>Prototypes
 Those will have the name format similar to Steam:<br>
 GAMENAME_PROTOVERSION - GAMENAME will be Sonic 1,2,CD, or 3K and PROTOVERSION being the selected Prototype the names of the Prototypes are:<br>
-</br></br>
+</br></br></li>
 Sonic 1:
 <ul>
   <li>PRENICKARCADE</li>
