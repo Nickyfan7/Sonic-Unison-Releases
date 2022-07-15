@@ -64,7 +64,7 @@ GAMENAME_R - Base Games (Not locked-on to Sonic & Knuckles) R standing for Regio
 Sonic_Knuckles_wGAMENAME - Locked-On to Sonic & Knuckles</br></br>
 Formats are the following:<br>
 Sega Genesis - .bin,.md, or .68k<br>
-Sega CD/Mega CD - .cue</br></br></li>
+Sega CD/Mega CD - .cue</br></li>
 
 <li>You moved/renamed Sonic Mania.<br>
 If Sonic Mania doesn't boot it's likely because you moved/renamed the EXE do not do this or Unison can't find it Unison is set to auto-detect it in it's base folder with it's base name so keep it there with it's original name SonicMania.exe</br></li>
