@@ -34,7 +34,7 @@ Here you can do multiple things regarding one of the 5 Launchable games: Look at
   <li>Sonic & Knuckles Collection (1992) ~ Must own physical disk.</li>
   <li>Sonic 3 Angel Island Revisited (2019) ~ Must own both S3K on Steam and Sonic 3 AIR.</li>
 </ul>
-## Sonic the Hedgehog CD
+### Sonic the Hedgehog CD
 <ul>
   <li>Original (1993) ~ Must have a legally dumped Sonic CD ISO/CUE.</li>
   <li>PC (1996) ~ Must have a copy of the Sonic CD PC Port Disc/Patched with Sega PC Reloaded.</li>
