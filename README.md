@@ -22,7 +22,7 @@ Here you can do multiple things regarding one of the 5 Launchable games: Look at
   <li>Sonic 1 Remastered (2013) ~ Requires the Decompilation from Rubberduckycooly)</li>
   <li>Sonic Forever (2021) ~ Must own Sonic Forever as an EXE</li>
 </ul>
-## Sonic the Hedgehog 2
+## Sonic the Hedgehog
 <ul>
   <li>Originals (1992/4) ~ Must own on Steam or Dumped from Cart/Collection.</li>
   <li>Sonic 2 Remastered (2013) ~ Requires Decompilation from Rubberduckycooly</li>
