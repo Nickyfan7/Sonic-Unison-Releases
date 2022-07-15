@@ -16,25 +16,25 @@ If you want to use it that way then yes, however I figured I'd try to channel th
 Here you can do multiple things regarding one of the 5 Launchable games: Look at Cheat Codes, Read up about and even play a games prototype (if it's of found status), read developer interviews, the game manuals, view promotional art, and unused content from each.
 
 ## What versions of the game are supported?
-### Sonic the Hedgehog
+## Sonic the Hedgehog
 <ul>
   <li>Original (1991) ~ Must own on Steam or Dumped from Cart/Collection.</li>
   <li>Sonic 1 Remastered (2013) ~ Requires the Decompilation from Rubberduckycooly)</li>
   <li>Sonic Forever (2021) ~ Must own Sonic Forever as an EXE</li>
 </ul>
-### Sonic the Hedgehog 2
+## Sonic the Hedgehog 2
 <ul>
   <li>Originals (1992/4) ~ Must own on Steam or Dumped from Cart/Collection.</li>
   <li>Sonic 2 Remastered (2013) ~ Requires Decompilation from Rubberduckycooly</li>
   <li?Sonic 2 Absolute (????) ~ Planned, When it releases.</li>
 </ul>
-### Sonic the Hedgehog 3 & Knuckles
+## Sonic the Hedgehog 3 & Knuckles
 <ul>
   <li>Originals (1994) ~ Must own on Steam or Dumped from Cart/Collection.</li>
   <li>Sonic & Knuckles Collection (1992) ~ Must own physical disk.</li>
   <li>Sonic 3 Angel Island Revisited (2019) ~ Must own both S3K on Steam and Sonic 3 AIR.</li>
 </ul>
-### Sonic the Hedgehog CD
+## Sonic the Hedgehog CD
 <ul>
   <li>Original (1993) ~ Must have a legally dumped Sonic CD ISO/CUE.</li>
   <li>PC (1996) ~ Must have a copy of the Sonic CD PC Port Disc/Patched with Sega PC Reloaded.</li>
